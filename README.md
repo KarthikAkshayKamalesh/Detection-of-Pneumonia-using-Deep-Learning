@@ -33,7 +33,8 @@ Train Accuracy: 92.87%
 - ### Convolutional Neural Network(Different approach) :
 
 ```
-
+Test loss is ===>  18.18680614233017 %
+Test accuracy is ===>  95.70205211639404 %
 ```
 
 - ### DenseNet :
@@ -60,7 +61,7 @@ Train Accuracy: 74.31%
 
 - ### ResNet :
 
-<p align="center"><img height="350" width="700" src="Assests/resnet.png"></p>
+<p align="center"><img height="350" width="700" src="Assests/resnet_arch.png"></p>
 
 ```
 624/624 [==============================] - 115s 184ms/step
