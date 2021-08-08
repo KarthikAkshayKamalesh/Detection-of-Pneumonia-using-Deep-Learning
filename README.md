@@ -1,10 +1,11 @@
 # Detection of Pneumonia using Deep Learning
+## Description of the project
 Pneumonia is an infectious and fatal respiratory infection caused by bacteria, fungus, or viruses that infect the human lung air sacs and fill them with fluid or pus. Pneumonia is one of the main reasons for death among children and the elderly in the world. Chest X-rays are the most systematic approach for diagnosing pneumonia, and the results must be evaluated by a medical professional.The inconvenient technique of detecting pneumonia resulted in the death of a person owing to incorrect diagnosis and treatment. With the advancement of computer technology, it is now feasible to build an autonomous system for detecting pneumonia and treating the disease, especially if the patient is in a remote region with limited medical resources. So, this is the primary motivation behind this project.
 
 In this project, we are going to detect the Pneumonia using Deep Learning Algorithms. There are many ways to detect Pneumonia using Chest X-Ray images, but here we are going to compare different algorithms test accuracy and choose the best algorithm for detecting Pneumonia. After choosing the best algorithm from the pretrained ones, we will develop a Webapp to view the result of it using Flask and HTML.The Dataset that we used in this project is from the open source Kaggle.The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal). Chest X-ray images (anterior-posterior) were selected from retrospective cohorts of pediatric patients of one to five years old from Guangzhou Women and Children’s Medical Center, Guangzhou.
 
 Download the Dataset from this link : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia. 
-## Model used :
+### Model used :
 **Here is a small comparison of all the models tested in the project:**
 
 The Different Deep Learning Models used in comparing and detecting Pnemounia are CNN_1, CNN_2, DenseNet121, VGG16, ResNet50, InceptionV3.
@@ -79,3 +80,9 @@ Test Accuracy: 71.47%
 652/652 [==============================] - 468s 719ms/step
 Train Accuracy: 88.40%
 ```
+### Front-End
+Creating a Front-end using Flask and Html to display the results of the image that we can upload in the webapp.
+
+<p align="center"><img height="350" width="700" src="Assests/webapp.png"></p>
+
+## Installation
