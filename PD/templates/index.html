@@ -1,0 +1,61 @@
+
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{
+       background-image: url("https://cdn.wallpapersafari.com/12/55/IRJb1c.jpg");
+       background-repeat: no-repeat;
+       background-attachment: fixed;
+       background-size: 100% 100%;
+     }
+    
+    h1{
+        color:red;
+    font-size: 45px;
+    }
+    
+   .center {
+            margin: auto;
+            width: 70%;
+            padding: 50px;
+            position:absolute; 
+            left:490px;
+            top:145px;
+            color:white;
+           }
+    h3{
+        font-size: 30px;
+        color: lightblue;
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 150px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+      }
+    
+    p{
+        color:white;
+        font-size:35px;
+    }
+
+</style>
+
+</head>
+   <body>
+      <form action = "http://localhost:5000/uploader" method = "POST" enctype = "multipart/form-data">
+        <center><h1> Pnemonia Detection Using Chest X-Ray Images </h1></center>
+        <center><p> Upload X-Ray Image</p></center>
+        <div class="center">
+         <input type = "file" name = "file" />
+         <input type = "submit" value="Predict"/>
+         <br><br>
+         <img src="{{url_for('static',filename = filen)}}" alt="Pneumonia X-Ray Image" width="455" height="265"/>
+         <br><br>
+         <h3>{{prediction}}</h3>
+        </div>
+      </form>
+   </body>
+</html>           
