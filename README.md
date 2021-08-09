@@ -1,4 +1,26 @@
 # Detection of Pneumonia using Deep Learning
+
+## Table of Contents
+
+1. [Manifest](#manifest)
+2. [Project Description](#Description of the project)
+3. [Installation](#Installation)
+4. [Usage](Usage)
+5. [Support](Support)
+6. [Road-Map](Road-Map)
+7. [Acknowledgements](Acknowledgements)
+8. [License](License)
+9. [Embedding Links](Project Status)
+
+## Manifest
+```
+- Assests ------> The folder contains images for the reamdme.
+- templates ----> It contains index.html file for the front-end
+- Licenses -----> It contains license of mine and also the license of Mr.Pranjal Bhardwaj.
+- app.py -------> It contains python code for the front-end
+- model.h5 -----> Weights of the model has been trained and stored.
+```
+
 ## Description of the project
 Pneumonia is an infectious and fatal respiratory infection caused by bacteria, fungus, or viruses that infect the human lung air sacs and fill them with fluid or pus. Pneumonia is one of the main reasons for death among children and the elderly in the world. Chest X-rays are the most systematic approach for diagnosing pneumonia, and the results must be evaluated by a medical professional.The inconvenient technique of detecting pneumonia resulted in the death of a person owing to incorrect diagnosis and treatment. With the advancement of computer technology, it is now feasible to build an autonomous system for detecting pneumonia and treating the disease, especially if the patient is in a remote region with limited medical resources. So, this is the primary motivation behind this project.
 
@@ -95,7 +117,7 @@ Creating a Front-end using Flask and Html to display the results of the image th
 4. In the terminal, navigate to the location in which you would like to store the repo. You can do so by typing the following command:
    $ cd <directory>
    For example:
-   $ cd <C:/Users/karth/Desktop>
+   $ cd C:/Users/karth/Desktop
 5. Copy and Paste the following as given below:
    ```
    $ git clone "https://github.com/KarthikAkshayKamalesh/Detection-of-Pneumobia-using-Deep-Learning.git"
@@ -121,7 +143,7 @@ Creating a Front-end using Flask and Html to display the results of the image th
    <p align="left"><img height="350" width="700" src="Assests/imagethree.png"></p>
 
 ## Support
-   # Karthik Akshay Kamalesh 👋
+   ### Karthik Akshay Kamalesh 👋
 [![Linkedin Badge](https://img.shields.io/badge/-karthik-akshay?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthik-akshay-k-7219421b0/)](https://www.linkedin.com/in/karthik-akshay-k-7219421b0/)
 [![Twitter Badge](https://img.shields.io/badge/-@karthikakshay98-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karthikakshay98)](https://twitter.com/karthikakshay98)
 [![Instagram Badge](https://img.shields.io/badge/-@karthikakshay-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/karthikakshayy/)](https://www.instagram.com/karthikakshayy/)
