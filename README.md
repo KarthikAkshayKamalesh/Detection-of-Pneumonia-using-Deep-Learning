@@ -86,3 +86,14 @@ Creating a Front-end using Flask and Html to display the results of the image th
 <p align="center"><img height="350" width="700" src="Assests/webapp.png"></p>
 
 ## Installation
+
+1. Download the Dataset from the link given below. This is a open source dataset from Kaggle.
+   https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+2. Download and Install Git on your computer. Click the link below to download the Git.  The installation process is straightforward and brings you through a lot of boilerplate    information. The one thing you want to be careful with is that you allow Git to be used from the command line.
+   https://git-scm.com/download/
+3. Open the Command Prompt (on Windows) or whichever terminal you happen to be using on your computer.
+4. In the terminal, navigate to the location in which you would like to store the repo. You can do so by typing the following command:
+
+   $ cd <directory>
+
+
