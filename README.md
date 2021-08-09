@@ -5,12 +5,12 @@
 1. [Manifest](#manifest)
 2. [Description of the project](#Description-of-the-project)
 3. [Installation](#Installation)
-4. [Usage](Usage)
-5. [Support](Support)
-6. [Road-Map](Road-Map)
-7. [Acknowledgements](Acknowledgements)
-8. [License](License)
-9. [Project Status](Project-Status)
+4. [Usage](#Usage)
+5. [Support](#Support)
+6. [Road-Map](#Road-Map)
+7. [Acknowledgements](#Acknowledgements)
+8. [License](#License)
+9. [Project Status](#Project-Status)
 
 ## Manifest
 ```
