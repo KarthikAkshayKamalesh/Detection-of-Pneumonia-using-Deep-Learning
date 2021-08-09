@@ -120,6 +120,7 @@ Creating a Front-end using Flask and Html to display the results of the image th
 5. Now click on "Choose File" button and select chest image to predict the outcome. After selecting, Click "Predict" button to display the result of the outcome.
    <p align="left"><img height="350" width="700" src="Assests/imagethree.png"></p>
 
+## Support
    
 
    
