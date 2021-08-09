@@ -102,4 +102,24 @@ Creating a Front-end using Flask and Html to display the results of the image th
    ```
 6. Give the process a few moments to complete.As a matter of good practice, check to make sure that the repository is on your machine. To do so, navigate to the directory in        which it was stored.
 
+## Usage
+   
+1. Open app.py file in any text editor and then change it to your working directory. You need to change the directory for these 2 places mentioned below:
+   <p align="left"><img height="350" width="700" src="Assests/app.png"></p>
+2. Open Command Prompt, change your directory to the location of app.py file in your computer.
+   For ex:
+   cd C:\Users\karth\Desktop\project\PD
+3. Run the app.py file in the terminal. For this use the following command below:
+   ```
+   python app.py
+   ```
+   <p align="left"><img height="350" width="700" src="Assests/imageone.png"></p>
+4. Next step is to copy the URL and paste it in the google URL bar or You can also copy and paste the link given below to open the webapp.
+   http://127.0.0.1:5000/
+   <p align="left"><img height="350" width="700" src="Assests/imagetwo.png"></p>
+5. Now click on "Choose File" button and select chest image to predict the outcome. After selecting, Click "Predict" button to display the result of the outcome.
+   <p align="left"><img height="350" width="700" src="Assests/imagethree.png"></p>
 
+   
+
+   
