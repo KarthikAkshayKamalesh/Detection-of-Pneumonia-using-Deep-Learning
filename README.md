@@ -124,8 +124,26 @@ Creating a Front-end using Flask and Html to display the results of the image th
    # Karthik Akshay Kamalesh 👋
 [![Linkedin Badge](https://img.shields.io/badge/-karthik-akshay?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthik-akshay-k-7219421b0/)](https://www.linkedin.com/in/karthik-akshay-k-7219421b0/)
 [![Twitter Badge](https://img.shields.io/badge/-@karthikakshay98-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karthikakshay98)](https://twitter.com/karthikakshay98)
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/karthikakshayy/)](https://www.instagram.com/karthikakshayy/)
+[![Instagram Badge](https://img.shields.io/badge/-@karthikakshay-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/karthikakshayy/)](https://www.instagram.com/karthikakshayy/)
 [![Gmail Badge](https://img.shields.io/badge/-karthikakshay98-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:karthikakshay98@gmail.com)](mailto:karthikakshay98@gmail.com)
+
+## Road-Map
+ - In the future, we can develop better model if we increase the epoch size and also if we use other deep learning algorithms we may get a better accuracy score than the current    one.
+ - Database can be created to store and run the webapp. Also, we can create a website for detection of Pneumonia, so that it can be easier for even normal people to detect it      online.
+ - We can use better dataset, Augumentation technique and data preprocessing, to increase the accuracy and test validation score.
+ 
+ ## Acknowledgements
+I would like to say thanks to Dr. Trevor Michael Tomesh,Professor of Research Methodology Computer Science,for his advice and giving me an opportunity to prepare a Project on Detection of Pneumonia using Deep Learning.
+
+I would also like to say thanks to Mr.Pranjal Bhardwaj, Machine Learning Engineer, for giving MIT license to edit,modify and copy his Project work on Detection of Pneumonia using Deep Learning.
+   
+## License
+   I have attached my license and also the license of Mr.Pranjal Bhardwaj in the License Folder.
+   
+## Project Status
+Detection of Pneumonia using Deep Learning has been completed sucessfully along with the Webapp. I am open to let other people modify and edit this project and start working on the changes.
+  
+   Thank You.
    
    
    
