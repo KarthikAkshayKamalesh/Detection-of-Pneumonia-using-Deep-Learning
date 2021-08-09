@@ -1,5 +1,10 @@
 # Detection of Pneumonia using Deep Learning
-
+![Technologies Used](https://img.shields.io/badge/-Technologies%20Used-yellowgreen)
+<br>
+<code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<code><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img height="45" src="https://miro.medium.com/max/876/1*0G5zu7CnXdMT9pGbYUTQLQ.png"></a></code>
+<code><a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a></code>
 ## Table of Contents
 
 1. [Manifest](#manifest)
