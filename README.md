@@ -97,8 +97,9 @@ Creating a Front-end using Flask and Html to display the results of the image th
    For example:
    $ cd <C:/Users/karth/Desktop>
 5. Copy and Paste the following as given below:
-```bash
-$ git clone "
+   ```
+   $ git clone "https://github.com/KarthikAkshayKamalesh/Detection-of-Pneumobia-using-Deep-Learning.git"
+   ```
+6. Give the process a few moments to complete.As a matter of good practice, check to make sure that the repository is on your machine. To do so, navigate to the directory in        which it was stored.
 
-```
 
