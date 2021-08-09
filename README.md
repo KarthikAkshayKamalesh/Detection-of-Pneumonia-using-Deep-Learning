@@ -3,14 +3,14 @@
 ## Table of Contents
 
 1. [Manifest](#manifest)
-2. [Project Description](#Description of the project)
+2. [Description of the project](#Description-of-the-project)
 3. [Installation](#Installation)
 4. [Usage](Usage)
 5. [Support](Support)
 6. [Road-Map](Road-Map)
 7. [Acknowledgements](Acknowledgements)
 8. [License](License)
-9. [Embedding Links](Project Status)
+9. [Project Status](Project-Status)
 
 ## Manifest
 ```
