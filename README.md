@@ -121,6 +121,13 @@ Creating a Front-end using Flask and Html to display the results of the image th
    <p align="left"><img height="350" width="700" src="Assests/imagethree.png"></p>
 
 ## Support
+   # Karthik Akshay Kamalesh 👋
+[![Linkedin Badge](https://img.shields.io/badge/-karthik-akshay?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthik-akshay-k-7219421b0/)](https://www.linkedin.com/in/karthik-akshay-k-7219421b0/)
+[![Twitter Badge](https://img.shields.io/badge/-@karthikakshay98-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karthikakshay98)](https://twitter.com/karthikakshay98)
+[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/karthikakshayy/)](https://www.instagram.com/karthikakshayy/)
+[![Gmail Badge](https://img.shields.io/badge/-karthikakshay98-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:karthikakshay98@gmail.com)](mailto:karthikakshay98@gmail.com)
+   
+   
    
 
    
