@@ -93,7 +93,12 @@ Creating a Front-end using Flask and Html to display the results of the image th
    https://git-scm.com/download/
 3. Open the Command Prompt (on Windows) or whichever terminal you happen to be using on your computer.
 4. In the terminal, navigate to the location in which you would like to store the repo. You can do so by typing the following command:
-
    $ cd <directory>
+   For example:
+   $ cd <C:/Users/karth/Desktop>
+5. Copy and Paste the following as given below:
+```bash
+$ git clone "
 
+```
 
